@@ -33,29 +33,6 @@ The app is intended as both a literary artifact and a research tool: it helps us
 - Python for data generation and preprocessing
 - Static web assets for map data, fonts, and related media
 
-## Project Structure
-
-```text
-.
-├── app/                      # Front-end React application
-│   ├── public/               # Static files served by the app
-│   │   ├── data/             # Generated map data, images, and PDF assets
-│   │   └── fonts/            # Typography assets
-│   ├── src/                 # React source code
-│   ├── index.html           # App entry point
-│   ├── package.json         # App scripts and dependencies
-│   ├── vite.config.js       # Vite configuration
-│   └── README.md            # Front-end app notes
-├── build_data.py             # Builds data used by the app
-├── data/                    # Reference data and generated assets
-├── python/                  # Text and data preparation scripts
-├── vendor/                  # Vendored assets
-├── START_HERE.txt           # Project setup and usage notes
-├── .gitignore
-├── .gitattributes
-├── LICENSE                  # If present in the repo
-└── README.md                # Public-facing project README
-```
 
 ## Local Development
 
@@ -69,17 +46,6 @@ npm run dev
 
 Then open the local URL displayed by Vite in your browser.
 
-## Production Build
-
-To generate a production build:
-
-```bash
-cd app
-npm install
-npm run build
-```
-
-This creates the `dist` folder, which can be deployed to GitHub Pages or any static web host.
 
 ## GitHub Pages Deployment
 
@@ -107,25 +73,12 @@ The repository includes Python-based preprocessing and analysis scripts used to 
 
 The front-end app consumes the generated data from `app/public/data`.
 
-## Credits
-
-This project is inspired by Henry David Thoreau’s Walden and explores the relationship between literature, place, and interpretation.
-
-## Contributing
-
-Contributions are welcome, especially in areas such as:
-- map data improvements
-- accessibility
-- UX and interface refinement
-- documentation
-- additional literary or historical context
-
-If you would like to contribute, please open an issue or submit a pull request.
 
 ## License
 
 This project is provided for educational and research use. Please check the repository for any licensing details before reusing or adapting the code or content.
 
----
 
-Disclaimer: This project was created with the assistance of AI tools.
+## Disclaimer
+
+This project was created with the assistance of AI tools.

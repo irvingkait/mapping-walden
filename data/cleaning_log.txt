@@ -1,0 +1,7 @@
+front matter and contents dropped: lines 0..61
+end matter dropped from 'THE END' on
+18 chapter headings removed (titles kept in chapters.json); 18 drop caps rejoined to their words
+page-number lines removed: 237
+asterism runs removed (* * *, ****): 7
+ledger dot leaders removed: 50 after-comma runs + 3 all-dot lines (817 periods in total); prose ellipses (letter then '. . . .') kept
+clean.txt: 578759 characters, 106455 whitespace-separated words

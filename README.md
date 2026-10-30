@@ -7,23 +7,18 @@ https://irvingkait.github.io/mapping-walden/
 
 ## Overview
 
-This project brings together:
-- an interactive map interface
-- layered geographic and textual overlays
-- visual “lenses” for reading and interpreting the text
-- embedded contextual data and media assets
-- a static site built for easy public hosting
+Walden Map transforms Thoreau’s text into a navigable spatial experience. The app presents:
 
-The app is intended as both a literary artifact and a research tool: it helps users explore Walden through place, movement, and interpretation.
+- multiple visual lenses for reading the text and their associated rules
+- a public-facing web app designed for exploration and teaching
+
+The project blends literary analysis, geospatial visualization, and web development into a single static site.
 
 ## Features
 
-- Interactive map with layered visual context
-- Multiple reading lenses and overlays
-- Hover-based popups with contextual information
-- Responsive design for browser-based exploration
-- Static deployment-friendly architecture
-- Data-driven visual storytelling
+- Interactive map with layered views
+- Multiple literacy lens mappings with individual and overlay views
+- Hover popups with contextual information
 
 ## Tech Stack
 

@@ -71,7 +71,7 @@ The front-end app consumes the generated data from `app/public/data`.
 
 ## License
 
-This project is provided for educational and research use. Please check the repository for any licensing details before reusing or adapting the code or content.
+This project is licensed under Creative Commons "Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)".  This means you can remix, tweak, and build upon the project non-commercially, as long as you credit you and license the new creations under the identical Creative Commons terms.  For more information on this license type, see: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 ## Disclaimer
